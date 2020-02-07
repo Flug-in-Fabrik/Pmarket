@@ -3,5 +3,3 @@
 
 # License
 해당 플러그인(Pmarket)은 GPLv3에 의해 보호됩니다.
-
-GPLv3 : http://www.opensource.org/licenses/lgpl-3.0.html
